@@ -1,0 +1,29 @@
+[PropertyInfo]
+d,javax.swing.JDialog,false,false, , ,false,<default>
+JButton1,javax.swing.JButton,false,false, , ,false,<default>
+JButton2,javax.swing.JButton,false,false, , ,false,<default>
+JButton3,javax.swing.JButton,false,false, , ,false,<default>
+JButton4,javax.swing.JButton,false,false, , ,false,<default>
+JButton5,javax.swing.JButton,false,false, , ,false,<default>
+JButton6,javax.swing.JButton,false,false, , ,false,<default>
+JComboBox1,javax.swing.JComboBox,false,false, , ,false,<default>
+JLabel1,javax.swing.JLabel,false,false, , ,false,<default>
+JLabel2,javax.swing.JLabel,false,false, , ,false,<default>
+JLabel3,javax.swing.JLabel,false,false, , ,false,<default>
+JLabel4,javax.swing.JLabel,false,false, , ,false,<default>
+JPanel1,javax.swing.JPanel,false,false, , ,false,<default>
+JPanel2,javax.swing.JPanel,false,false, , ,false,<default>
+JTabbedPane1,javax.swing.JTabbedPane,false,false, , ,false,<default>
+JTextField1,javax.swing.JTextField,false,false, , ,false,<default>
+JTextField2,javax.swing.JTextField,false,false, , ,false,<default>
+JTextField3,javax.swing.JTextField,false,false, , ,false,<default>
+JTextField4,javax.swing.JTextField,false,false, , ,false,<default>
+JTextPane1,javax.swing.JTextPane,false,false, , ,false,<default>
+JTextPane2,javax.swing.JTextPane,false,false, , ,false,<default>
+judge,boolean,false,false, , ,false,<default>
+textArea1,java.awt.TextArea,false,false, , ,false,<default>
+[IconNames]
+
+
+
+
